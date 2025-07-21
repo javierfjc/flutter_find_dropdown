@@ -6,7 +6,7 @@ git: https://github.com/davidsdearaujo/find_dropdown
 repository: https://github.com/davidsdearaujo/find_dropdown
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.4.3 <4.0.0'
 
 dependencies:
   select_dialog: ^2.0.1
